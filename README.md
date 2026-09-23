@@ -41,9 +41,3 @@ Here I'll be sharing some of the things I'm learning and working on along the wa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" alt="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
-
-### Statistics
-
-<p>
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="200">
-</p>
