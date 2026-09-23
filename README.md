@@ -6,7 +6,9 @@ Hi! I'm Camila Moreira, and I'm currently learning cybersecurity.
 
 I got interested in technology and slowly started getting more into cybersecurity. I've been learning things like Linux, networking, and offensive and defensive security, mostly through courses and hands-on labs on TryHackMe.
 
-I'm still figuring things out and learning a lot along the way, but I really enjoy testing things, breaking stuff, getting stuck, and eventually figuring out how things work.
+I'm also interested in languages. Portuguese is my native language, and I'm currently learning English and Russian. I'm also studying Latin, just because I find it interesting
+
+I'm still figuring things out and learning a lot along the way, but I really enjoy testing things and eventually understanding how they work
 
 Here I'll be sharing some of the things I'm learning and working on along the way :)
 
