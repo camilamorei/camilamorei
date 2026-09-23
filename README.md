@@ -46,5 +46,4 @@ Here I'll be sharing some of the things I'm learning and working on along the wa
 
 <p>
   <img src="./profile/stats.svg" alt="GitHub Stats" height="200">
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="200">
 </p>
