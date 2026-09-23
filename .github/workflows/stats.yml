@@ -1,4 +1,3 @@
-```yaml
 name: Update GitHub Stats
 
 on:
@@ -43,4 +42,3 @@ jobs:
           git commit -m "Update GitHub stats cards" || exit 0
 
           git push
-```
