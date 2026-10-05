@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Camila Moreira
+# Camila Moreira
 
 **`Cybersecurity Learner`**
 
